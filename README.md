@@ -68,13 +68,17 @@ MathWhiz/
 
 ## Screenshots
 ### Home Page
-![Home](screenshots/home.png)
+<img width="570" height="233" alt="home" src="https://github.com/user-attachments/assets/05b5cd99-ee80-425f-a2b7-71ce49d6b0c5" />
+
 
 ### Game Page
-![Game](screenshots/game.png)
+<img width="350" height="237" alt="game" src="https://github.com/user-attachments/assets/0272cef6-e8ad-422a-bccd-3528508e031a" />
+
 
 ### Result Page
-![Result Page](screenshots/result.png)
+<img width="618" height="241" alt="result" src="https://github.com/user-attachments/assets/c590e4d2-583f-41d4-8253-d2f1523d28a4" />
+
 
 ### Leaderboard
-![Leaderboard](screenshots/leaderboard.png)
+<img width="428" height="235" alt="leaderboard" src="https://github.com/user-attachments/assets/d4930a78-dc20-46ea-a0b4-a2b9fa0651b9" />
+
